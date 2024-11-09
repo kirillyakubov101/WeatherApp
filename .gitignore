@@ -1,1 +1,39 @@
-__pycache__/ApiDatabase.cpython-311.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints (if you're using Jupyter for plotting)
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-specific files
+.DS_Store
+
+# Config files containing sensitive information
+.env
+*.ini
+
+# Library files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE-specific files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Plot images (if you save plots as images)
+*.png
+*.jpg
+*.jpeg
+*.svg
